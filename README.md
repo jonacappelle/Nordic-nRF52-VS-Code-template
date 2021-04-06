@@ -1,0 +1,1 @@
+# Nordic-nRF52-VS-Code-template
