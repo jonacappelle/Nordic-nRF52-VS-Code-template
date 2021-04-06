@@ -45,7 +45,8 @@ rem Serial numbers of nRF development boards
 set PCA10056_SN=000000000
 set PCA10040_SN=682864789
 
-"C:/Users/username/AppData/Local/Programs/Microsoft VS Code/Code.exe" workspace.code-workspace
+start "C:/Users/u0139004/AppData/Local/Programs/Microsoft VS Code/Code.exe" workspace.code-workspace
+exit
 ```
 
 
